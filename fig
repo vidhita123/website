@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+    <main> 
+    <section>
+    <article>
+     <h1> facts about dogs</h1>
+     <p> 
+     dogs are known to be the most friendly animals. dogs have sence of time. 
+
+    </p>
+    <figure> 
+        <img src="pexels-chevanon-1108099.jpg" width="500" height="500" alt="dog image ">
+    </figure>
+     </article>
+     </section>
+    </main>
+    
+    <footer>
+        <p> contact me at +977 1234567891</p>
+    </footer>
+    </header>
+</body>
+</html>
