@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+    <main>
+    <section>
+    <article>
+    <h1> facts about pizza </h1>
+    <p> 
+    Pizza has ancient roots as flatbread, evolving into the modern 
+    version in Naples, Italy, with tomatoes; it's a global
+      favorite, with Americans eating 350 slices per second,
+     and features unique cultural variations, records for size, 
+     and even space travel, with pepperoni being the top U.S.
+     topping and October being National Pizza Month. 
+    </p>
+    <figure>
+        <img src="Pizza-3007395.jpg" alt="pizza img">
+    </figure>
+    </article>
+    </section>
+    </main>
+
+    <footer> 
+    <p> contact me at +9779865432167 </p>
+    </footer>
+    </header>
+</body>
+</html>
