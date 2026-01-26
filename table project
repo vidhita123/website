@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>tables in html</title>
+</head>
+<body>
+    <table border="5px">
+    <tr>
+        <th>
+          hoddies
+        </th>
+        <th>
+          konwn for it  
+        </th>
+        <th>known for it 
+        </th>
+
+    </tr>
+    <tr>
+        <td>
+            singing
+        </td>
+        <td>
+            jennie
+        </td>
+        <td>
+           the weekend
+        </td>
+    </tr>
+    <tr>
+         <td>
+           playing guitar
+        </td>
+        <td>
+                steve harington
+        </td>
+        <td>
+                pink floyd
+        </td>
+    </tr>
+    <tr>
+        <td>
+            dancing
+        </td>
+        <td>
+            lisa
+        </td>
+        <td>
+            momo
+        </td>
+
+    </tr>
+    </table>
+</body>
+</html>
