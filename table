@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>tables in html</title>
+</head>
+<body>
+    <table border="5px">
+    <tr>
+        <th>
+          movies
+        </th>
+        <th>
+            male actor
+        </th>
+        <th>
+            female actor
+        </th>
+
+    </tr>
+    <tr>
+        <td>
+            3 idiots
+        </td>
+        <td>
+            amir khan
+        </td>
+        <td>
+            karina kapoor
+        </td>
+        <tr>
+            <td>
+            playing guitar
+            </td>
+            <td>
+                steve harington
+            </td>
+            <td>
+                pink floyd
+            </td>
+        </tr>
+    </tr>
+    </table>
+</body>
+</html>
