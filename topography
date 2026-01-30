@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>topography</title>
+
+<style>
+
+.text1{
+
+color: red;
+
+font-size: 38px;
+
+}
+
+.p1{
+
+color: aqua;
+
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<h1>Topography</h1>
+
+<p class="text1">WELCOME TO CODINGAL</p>
+
+<p class="p1">WELCOME TO CODINGAL</p>
+
+</body>
+
+</html>
